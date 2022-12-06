@@ -1,0 +1,8 @@
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/CMakeFiles/ALL_BUILD.dir
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/CMakeFiles/ZERO_CHECK.dir
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cpp_examples/CMakeFiles/cpp_add.dir
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cpp_examples/CMakeFiles/cpp_export.dir
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cpp_examples/CMakeFiles/cpp_class.dir
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cpp_examples/CMakeFiles/cpp_matrix_add.dir
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_examples/CMakeFiles/cu_matrix_add.dir
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/CMakeFiles/cu_relu_lyr.dir

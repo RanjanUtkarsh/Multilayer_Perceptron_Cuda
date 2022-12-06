@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindCUDA/run_nvcc.cmake
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/CMakeFiles/cu_relu_lyr.dir/cu_relu_lyr_generated_relu.cu.obj.cmake.pre-gen
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/CMakeFiles/cu_relu_lyr.dir/cu_relu_lyr_generated_relu.cu.obj.depend
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/src/pybind11_cuda_relu/CMakeLists.txt

@@ -1,0 +1,36 @@
+^D:\PROJECT - UR\PYTHON2CUDA_EXAMPLE\PYTHON2CUDA_EXAMPLE\SRC\PYBIND11_CUDA_RELU\RELU.CU
+setlocal
+cd "D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\src\pybind11_cuda_relu\CMakeFiles\cu_relu.dir"
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory "D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/CMakeFiles/cu_relu.dir//Debug"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.29.30133/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D "generated_file:STRING=D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/CMakeFiles/cu_relu.dir//Debug/cu_relu_generated_relu.cu.obj" -D "generated_cubin_file:STRING=D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/CMakeFiles/cu_relu.dir//Debug/cu_relu_generated_relu.cu.obj.cubin.txt" -P "D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/CMakeFiles/cu_relu.dir//cu_relu_generated_relu.cu.obj.Debug.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROJECT - UR\PYTHON2CUDA_EXAMPLE\PYTHON2CUDA_EXAMPLE\BUILD\CMAKEFILES\217B69FA05549C31E0EE99AD39391069\CU_RELU_INTERMEDIATE_LINK.OBJ.RULE
+setlocal
+"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.6\bin\nvcc.exe" -lnvToolExt -gencode arch=compute_52,code=sm_52 --cudart=shared -DWITH_OPENGL -DOPTIMIZATION_STEP=0x0 -lineinfo -arch sm_52 -use_fast_math -maxrregcount 104 -m64 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.29.30133/bin/Hostx64/x64" -dlink "D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/CMakeFiles/cu_relu.dir//Debug/cu_relu_generated_relu.cu.obj" -o "D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/CMakeFiles/cu_relu.dir/Debug/cu_relu_intermediate_link.obj" -Xcompiler /MDd
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROJECT - UR\PYTHON2CUDA_EXAMPLE\PYTHON2CUDA_EXAMPLE\SRC\PYBIND11_CUDA_RELU\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Project - UR/Python2Cuda_example/Python2Cuda_example" "-BD:/Project - UR/Python2Cuda_example/Python2Cuda_example/build" --check-stamp-file "D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

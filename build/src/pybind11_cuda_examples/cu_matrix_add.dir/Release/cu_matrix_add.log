@@ -1,0 +1,15 @@
+﻿  Building NVCC (Device) object src/pybind11_cuda_examples/CMakeFiles/cu_matrix_add.dir/Release/cu_matrix_add_generated_madd.cu.obj
+  madd.cu
+  madd.cu
+  Building Custom Rule D:/Project - UR/Python2Cuda_example/Python2Cuda_example/src/pybind11_cuda_examples/CMakeLists.txt
+  Building NVCC intermediate link file src/pybind11_cuda_examples/CMakeFiles/cu_matrix_add.dir/Release/cu_matrix_add_intermediate_link.obj
+  cu_matrix_add_generated_madd.cu.obj
+  pybind11_madd.cpp
+D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_examples\pybind11_madd.cpp(28,8): warning C4244: 'initializing': conversion from 'const pybind11::ssize_t' to 'int', possible loss of data
+D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_examples\pybind11_madd.cpp(29,8): warning C4244: 'initializing': conversion from 'const pybind11::ssize_t' to 'int', possible loss of data
+     Creating library D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_examples/Release/cu_matrix_add.lib and object D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_examples/Release/cu_matrix_add.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2068 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  cu_matrix_add.vcxproj -> D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\src\pybind11_cuda_examples\Release\cu_matrix_add.pyd

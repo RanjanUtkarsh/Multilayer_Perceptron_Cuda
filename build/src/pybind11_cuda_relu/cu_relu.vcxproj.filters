@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_relu\pybind11_relu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_relu\relu.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\CMakeFiles\217b69fa05549c31e0ee99ad39391069\cu_relu_intermediate_link.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_relu\CmakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\src\pybind11_cuda_relu\CMakeFiles\cu_relu.dir\$(Configuration)\cu_relu_generated_relu.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\src\pybind11_cuda_relu\CMakeFiles\cu_relu.dir\$(Configuration)\cu_relu_intermediate_link.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{845CD951-D7FA-353F-9542-27D3A3464C25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{BFA898C3-EB69-3B82-802E-8220FE322EC3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8AF8B176-E986-39F3-9516-7B61CB02BDCB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

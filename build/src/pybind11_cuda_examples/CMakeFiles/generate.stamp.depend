@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindCUDA/run_nvcc.cmake
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_examples/CMakeFiles/cu_matrix_add.dir/cu_matrix_add_generated_madd.cu.obj.cmake.pre-gen
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_examples/CMakeFiles/cu_matrix_add.dir/cu_matrix_add_generated_madd.cu.obj.depend
+D:/Project - UR/Python2Cuda_example/Python2Cuda_example/src/pybind11_cuda_examples/CMakeLists.txt

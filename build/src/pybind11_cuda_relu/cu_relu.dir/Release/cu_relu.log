@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : Access to the path 'd:\project - ur\python2cuda_example\python2cuda_example\build\src\pybind11_cuda_relu\release\cu_relu.pyd' is denied.
+  Building NVCC (Device) object src/pybind11_cuda_relu/CMakeFiles/cu_relu.dir/Release/cu_relu_generated_relu.cu.obj
+  relu.cu
+  relu.cu
+  Building Custom Rule D:/Project - UR/Python2Cuda_example/Python2Cuda_example/src/pybind11_cuda_relu/CMakeLists.txt
+  Building NVCC intermediate link file src/pybind11_cuda_relu/CMakeFiles/cu_relu.dir/Release/cu_relu_intermediate_link.obj
+  cu_relu_generated_relu.cu.obj
+  pybind11_relu.cpp
+D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_relu\pybind11_relu.cpp(21,8): warning C4244: 'initializing': conversion from 'const pybind11::ssize_t' to 'int', possible loss of data
+D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_relu\pybind11_relu.cpp(22,8): warning C4244: 'initializing': conversion from 'const pybind11::ssize_t' to 'int', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\src\pybind11_cuda_relu\Release\cu_relu.pyd'

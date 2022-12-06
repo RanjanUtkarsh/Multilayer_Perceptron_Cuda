@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Project - UR/Python2Cuda_example/Python2Cuda_example/src/pybind11_cpp_examples/CMakeLists.txt
+  pybind11_class.cpp
+     Creating library D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cpp_examples/Release/cpp_class.lib and object D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cpp_examples/Release/cpp_class.exp
+  Generating code
+  Finished generating code
+  cpp_class.vcxproj -> D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\src\pybind11_cpp_examples\Release\cpp_class.pyd

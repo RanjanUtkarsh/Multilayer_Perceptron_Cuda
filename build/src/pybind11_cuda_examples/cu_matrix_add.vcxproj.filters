@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_examples\pybind11_madd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_examples\madd.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\CMakeFiles\2ab54d7c931fe4a84d1af18319438693\cu_matrix_add_intermediate_link.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_examples\CmakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\src\pybind11_cuda_examples\CMakeFiles\cu_matrix_add.dir\$(Configuration)\cu_matrix_add_generated_madd.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\src\pybind11_cuda_examples\CMakeFiles\cu_matrix_add.dir\$(Configuration)\cu_matrix_add_intermediate_link.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{845CD951-D7FA-353F-9542-27D3A3464C25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{BFA898C3-EB69-3B82-802E-8220FE322EC3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8AF8B176-E986-39F3-9516-7B61CB02BDCB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

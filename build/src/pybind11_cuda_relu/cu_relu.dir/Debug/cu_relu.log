@@ -1,0 +1,23 @@
+﻿  Building NVCC (Device) object src/pybind11_cuda_relu/CMakeFiles/cu_relu.dir/Debug/cu_relu_generated_relu.cu.obj
+  relu.cu
+CUSTOMBUILD : nvcc warning : '--device-debug (-G)' overrides '--generate-line-info (-lineinfo)'
+CUSTOMBUILD : ptxas warning : Conflicting options --device-debug and --generate-line-info specified, ignoring --generate-line-info option
+  ptxas info    : 0 bytes gmem
+  ptxas info    : Compiling entry function '_Z11kernel_reluPiS_ii' for 'sm_52'
+  ptxas info    : Function properties for _Z11kernel_reluPiS_ii
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 18 registers, 344 bytes cmem[0]
+  ptxas info    : Function properties for fmaxf
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+CUSTOMBUILD : nvcc warning : '--device-debug (-G)' overrides '--generate-line-info (-lineinfo)'
+  relu.cu
+  Building NVCC intermediate link file src/pybind11_cuda_relu/CMakeFiles/cu_relu.dir/Debug/cu_relu_intermediate_link.obj
+  cu_relu_generated_relu.cu.obj
+  pybind11_relu.cpp
+D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_relu\pybind11_relu.cpp(21,8): warning C4244: 'initializing': conversion from 'const pybind11::ssize_t' to 'int', possible loss of data
+D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_relu\pybind11_relu.cpp(22,8): warning C4244: 'initializing': conversion from 'const pybind11::ssize_t' to 'int', possible loss of data
+     Creating library D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/Debug/cu_relu.lib and object D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/Debug/cu_relu.exp
+  Generating code
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+  Finished generating code
+  cu_relu.vcxproj -> D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\src\pybind11_cuda_relu\Debug\cu_relu.pyd

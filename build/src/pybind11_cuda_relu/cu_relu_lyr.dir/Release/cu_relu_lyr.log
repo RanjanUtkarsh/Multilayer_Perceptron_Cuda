@@ -1,0 +1,15 @@
+﻿  Building NVCC (Device) object src/pybind11_cuda_relu/CMakeFiles/cu_relu_lyr.dir/Release/cu_relu_lyr_generated_relu.cu.obj
+  relu.cu
+  relu.cu
+  Building Custom Rule D:/Project - UR/Python2Cuda_example/Python2Cuda_example/src/pybind11_cuda_relu/CMakeLists.txt
+  Building NVCC intermediate link file src/pybind11_cuda_relu/CMakeFiles/cu_relu_lyr.dir/Release/cu_relu_lyr_intermediate_link.obj
+  cu_relu_lyr_generated_relu.cu.obj
+  pybind11_relu.cpp
+D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_relu\pybind11_relu.cpp(21,8): warning C4244: 'initializing': conversion from 'const pybind11::ssize_t' to 'int', possible loss of data
+D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cuda_relu\pybind11_relu.cpp(22,8): warning C4244: 'initializing': conversion from 'const pybind11::ssize_t' to 'int', possible loss of data
+     Creating library D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/Release/cu_relu_lyr.lib and object D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cuda_relu/Release/cu_relu_lyr.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2064 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  cu_relu_lyr.vcxproj -> D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\src\pybind11_cuda_relu\Release\cu_relu_lyr.pyd

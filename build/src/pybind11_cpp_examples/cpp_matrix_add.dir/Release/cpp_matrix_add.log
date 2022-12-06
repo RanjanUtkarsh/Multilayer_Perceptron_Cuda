@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/Project - UR/Python2Cuda_example/Python2Cuda_example/src/pybind11_cpp_examples/CMakeLists.txt
+  pybind11_madd.cpp
+D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cpp_examples\pybind11_madd.cpp(34,8): warning C4244: 'initializing': conversion from 'const pybind11::ssize_t' to 'int', possible loss of data
+D:\Project - UR\Python2Cuda_example\Python2Cuda_example\src\pybind11_cpp_examples\pybind11_madd.cpp(35,8): warning C4244: 'initializing': conversion from 'const pybind11::ssize_t' to 'int', possible loss of data
+     Creating library D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cpp_examples/Release/cpp_matrix_add.lib and object D:/Project - UR/Python2Cuda_example/Python2Cuda_example/build/src/pybind11_cpp_examples/Release/cpp_matrix_add.exp
+  Generating code
+  Finished generating code
+  cpp_matrix_add.vcxproj -> D:\Project - UR\Python2Cuda_example\Python2Cuda_example\build\src\pybind11_cpp_examples\Release\cpp_matrix_add.pyd
